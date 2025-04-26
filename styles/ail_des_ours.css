@@ -1,0 +1,61 @@
+/* Style for the body element */
+body {
+    font-family: Arial, sans-serif;
+    font-size:20px;
+    background-color: #c9eaaa;
+    margin: 40;
+  }
+  
+  /* Style for the h1 element */
+  h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 50px 0;
+  }
+  
+  /* Style for the p element */
+  p {
+    font-size: 28px;
+    margin: 20px 0;
+  }
+
+  ul {
+    font-size: 28px;
+    margin: 20px 0;
+  }
+  
+  /* Style for the image element */
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 30 auto;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  /* Style for the video element */
+  video {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 30 auto;
+  }
+  
+  /* Style for the link */
+  a {
+    text-decoration: none;
+    color: #00b403;
+  }
+  
+  /* Style for the bold text */
+  b {
+    font-weight: bold;
+  }
+  
+  /* Style for the container div */
+  .container {
+    max-width: 800px;
+    margin: 30 auto;
+    padding: 0 20px;
+  }
+  
