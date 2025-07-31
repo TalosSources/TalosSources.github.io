@@ -1,0 +1,55 @@
+html {
+    box-sizing: border-box;
+    max-width: 70ch;
+    margin: auto;
+    font-size: 1em;
+    color: #f0e8c7;
+    background-color: #2e2a24;
+    line-height: 1.4;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+audio {
+    display: block;
+    width:80%;
+    margin: 2rem auto;
+}
+
+details {
+    padding: 0.5em 0.5em 0;
+  }
+  
+summary {
+    font-weight: bold;
+    font-size: 1.8rem;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+}
+
+details[open] {
+    padding: 0.5em;
+}
+
+details[open] summary {
+    margin-bottom: 0.5em;
+}
